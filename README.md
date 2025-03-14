@@ -1,0 +1,1 @@
+# rabbitmq-fallout-spring
