@@ -24,4 +24,5 @@ public class Pedido {
     private Status status = Status.EM_PROCESSAMENTO;
     @JsonFormat(pattern = "yyyy-MM-dd HH:mm:ss")
     private LocalDateTime dataHora = LocalDateTime.now();
+
 }

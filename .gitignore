@@ -1,24 +1,42 @@
-# Compilados do Maven e arquivos de build
-/target/
-!.mvn/wrapper/maven-wrapper.jar
-/logs/
-!logs/keep.log
-
-# Arquivos de configurações e dependências locais
-.mvn/
-.idea/
-*.iml
-*.ipr
-*.iws
+# Diretórios e arquivos gerados pelo sistema operacional
 .DS_Store
+Thumbs.db
 
-# Configurações do IntelliJ IDEA
-*.iml
-.idea/
-out/
-.idea_modules/
-
-# Logs de execução
+# Arquivos de log
 *.log
+logs/
 
-# Todos os binarios Gradle-maven qualquer caminho  
+# Diretórios criados pela IDE IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+
+# Diretórios criados pela IDE Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# Arquivos gerados pelo Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Arquivos de configuração (opcional)
+*.properties
+*.yml
+*.yaml
+
+# Arquivos gerados pelo Lombok (anotações e configurações)
+lombok.config
+
+# Arquivos de cache e pacotes criados por ferramentas externas
+node_modules/
+dist/
+.build/
+
+# Diretórios criados pelo sistema de linha de comando (caso use gradle/maven)
+build/
+
+# Configuração do IntelliJ Run/Debug
+*.run.xml
