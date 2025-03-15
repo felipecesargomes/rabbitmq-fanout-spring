@@ -1,0 +1,24 @@
+# Compilados do Maven e arquivos de build
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+/logs/
+!logs/keep.log
+
+# Arquivos de configurações e dependências locais
+.mvn/
+.idea/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+
+# Configurações do IntelliJ IDEA
+*.iml
+.idea/
+out/
+.idea_modules/
+
+# Logs de execução
+*.log
+
+# Todos os binarios Gradle-maven qualquer caminho  
