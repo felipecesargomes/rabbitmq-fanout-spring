@@ -7,7 +7,7 @@
 
 ## Descrição do Projeto
 
-Este projeto demonstra a implementação de um sistema de mensageria utilizando o padrão **Fanout** do RabbitMQ integrado com o framework Spring. O objetivo é exemplificar como distribuir mensagens para múltiplas filas simultaneamente, permitindo que diferentes partes da aplicação processem essas mensagens de forma independente.
+Projeto criado para exemplificar um exemplo de mensageria com rabbitmq no padrão fanout.
 
 ## Tecnologias Utilizadas
 
