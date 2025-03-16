@@ -6,8 +6,8 @@
 ![Badge](https://img.shields.io/static/v1?label=Maven&message=Build%20Tool&color=C71A36&style=for-the-badge&logo=apache-maven)
 
 ## Descrição do Projeto
-
-Projeto criado para exemplificar um exemplo de mensageria com rabbitmq no padrão fanout.
+ 
+Projeto criado para exemplificar um exemplo de mensageria com rabbitmq no padrão fanout. E utilização do mailhog para receber as notificações
 
 ## Tecnologias Utilizadas
 
@@ -15,6 +15,7 @@ Projeto criado para exemplificar um exemplo de mensageria com rabbitmq no padrã
 - **Spring Framework**
 - **RabbitMQ**
 - **Maven**
+- **MailHog**
 
 ## Funcionalidades
 
