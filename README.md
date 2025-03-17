@@ -7,7 +7,9 @@
 
 ## Modelo da Fila
 
-![image](https://github.com/user-attachments/assets/9fdfceee-fd74-4398-9b21-4fb9d6d7b187)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9fdfceee-fd74-4398-9b21-4fb9d6d7b187" alt="Imagem" />
+</p>
 
 ## Descrição do Projeto
  
