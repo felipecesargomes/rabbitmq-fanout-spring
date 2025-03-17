@@ -22,11 +22,10 @@ Projeto criado para exemplificar um exemplo de mensageria com rabbitmq no padrã
 - **Envio de Mensagens**: Capacidade de enviar mensagens para um exchange do tipo fanout.
 - **Recebimento de Mensagens**: Consumidores recebendo e processando mensagens de diferentes filas vinculadas ao exchange.
 
-## Pré-requisitos
+## Necessário
 
 - **Java 11** ou superior instalado.
-- **RabbitMQ**: Instância do RabbitMQ em funcionamento. Você pode utilizar o Docker para subir uma instância rapidamente:
+- **RabbitMQ**: Instância do RabbitMQ.
 
   ```bash
   docker composer up -d
-  docker run -d --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:management
