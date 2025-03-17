@@ -13,7 +13,7 @@
 
 ## Descrição do Projeto
  
-Projeto criado para exemplificar um exemplo de mensageria com rabbitmq no padrão fanout. E utilização do mailhog para receber as notificações.
+Projeto criado para exemplificar um exemplo de mensageria com rabbitmq no padrão fanout, onde cada consumidor recebe mensagem e processa na sua maneira.
 
 ## Tecnologias Utilizadas
 
