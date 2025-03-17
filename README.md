@@ -5,7 +5,7 @@
 ![Badge](https://img.shields.io/static/v1?label=Java&message=Language&color=007396&style=for-the-badge&logo=java)
 ![Badge](https://img.shields.io/static/v1?label=Maven&message=Build%20Tool&color=C71A36&style=for-the-badge&logo=apache-maven)
 
-## Modelo da Fila
+## Queue and Exchange
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9fdfceee-fd74-4398-9b21-4fb9d6d7b187" alt="Imagem" />
