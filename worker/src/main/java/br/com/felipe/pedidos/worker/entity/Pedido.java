@@ -46,7 +46,7 @@ public class Pedido {
                 ", valorTotal=" + valorTotal +
                 ", status=" + status +
                 ", dataHora=" + dataHora +
-                ", itens=" + (itens != null ? itens.size() : 0) + " itens" + // Evita chamar diretamente todos os itens
+                ", itens=" + (itens != null ? itens.size() : 0) + " itens" +
                 '}';
     }
 
